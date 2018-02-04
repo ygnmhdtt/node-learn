@@ -1,1 +1,3 @@
-console.log("Hello World!");
+var l = require("./log");
+
+l.log();
